@@ -1,4 +1,4 @@
-#Hi 👋! My name is Garv Baheti and I'm a Developer 🫡🤓
+# Hi 👋! My name is Garv Baheti and I'm a Developer 🫡🤓
 
 # 💫 About Me:
 🔭 An ambitious, energetic, and thrive in fast-paced team environments having a Tenacious nature. Love to peruse and surge to be Software Engineer.<br>
